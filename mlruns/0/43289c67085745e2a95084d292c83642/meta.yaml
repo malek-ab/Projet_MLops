@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/43289c67085745e2a95084d292c83642/artifacts
+end_time: 1733235698275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43289c67085745e2a95084d292c83642
+run_name: Linear Regression with SMOTE
+run_uuid: 43289c67085745e2a95084d292c83642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733235698175
+status: 4
+tags: []
+user_id: abidm

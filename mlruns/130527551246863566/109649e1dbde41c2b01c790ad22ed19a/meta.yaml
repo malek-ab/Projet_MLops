@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/abidm/Downloads/projet_MLops/mlruns/130527551246863566/109649e1dbde41c2b01c790ad22ed19a/artifacts
+end_time: 1732903252900
+entry_point_name: ''
+experiment_id: '130527551246863566'
+lifecycle_stage: active
+run_id: 109649e1dbde41c2b01c790ad22ed19a
+run_name: Linear Regression
+run_uuid: 109649e1dbde41c2b01c790ad22ed19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732903246020
+status: 3
+tags: []
+user_id: abidm
